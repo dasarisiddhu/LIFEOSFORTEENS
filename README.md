@@ -1,73 +1,71 @@
-# Welcome to your Lovable project
+# LifeOS for Teens
 
-## Project info
+**School teaches subjects. We teach life.**
 
-**URL**: https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID
+LifeOS for Teens is a gamified web platform that helps teenagers (13–19) learn real-world skills like communication, discipline, money management and decision-making through short interactive challenges instead of long courses.
 
-## How can I edit this code?
+The experience works like Duolingo — but for life skills.
 
-There are several ways of editing your application.
+---
 
-**Use Lovable**
+## Features
 
-Simply visit the [Lovable Project](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and start prompting.
+### Gamified Learning
 
-Changes made via Lovable will be committed automatically to this repo.
+* XP & Level progression (1–50)
+* Daily streaks
+* Achievements & badges
+* Quests and challenges
 
-**Use your preferred IDE**
+### Skill Modules
 
-If you want to work locally using your own IDE, you can clone this repo and push changes. Pushed changes will also be reflected in Lovable.
+* Communication Skills
+* Life Skills
+* Financial Literacy
+* Budget Planning
 
-The only requirement is having Node.js & npm installed - [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating)
+Each lesson:
+Learn → Scenario → Quiz → Action → Reward
 
-Follow these steps:
+---
 
-```sh
-# Step 1: Clone the repository using the project's Git URL.
-git clone <YOUR_GIT_URL>
+### Tools
 
-# Step 2: Navigate to the project directory.
-cd <YOUR_PROJECT_NAME>
+**Budget Planner**
 
-# Step 3: Install the necessary dependencies.
-npm i
+* Splits allowance into Spend / Save / Invest / Fun
+* Visual charts
+* Smart suggestions
 
-# Step 4: Start the development server with auto-reloading and an instant preview.
-npm run dev
-```
+**Communication Simulator**
+Practice conversations:
 
-**Edit a file directly in GitHub**
+* Talking to teachers
+* Asking parents
+* Peer pressure handling
+* Introductions
 
-- Navigate to the desired file(s).
-- Click the "Edit" button (pencil icon) at the top right of the file view.
-- Make your changes and commit the changes.
+**Skill Assessment**
+Generates a Teen Life Score and roadmap
 
-**Use GitHub Codespaces**
+---
 
-- Navigate to the main page of your repository.
-- Click on the "Code" button (green button) near the top right.
-- Select the "Codespaces" tab.
-- Click on "New codespace" to launch a new Codespace environment.
-- Edit files directly within the Codespace and commit and push your changes once you're done.
+## Tech Stack
 
-## What technologies are used for this project?
+React + Vite
+TailwindCSS
+LocalStorage (mock database)
 
-This project is built with:
+---
 
-- Vite
-- TypeScript
-- React
-- shadcn-ui
-- Tailwind CSS
+## Demo
 
-## How can I deploy this project?
+(Will be added after deployment)
 
-Simply open [Lovable](https://lovable.dev/projects/REPLACE_WITH_PROJECT_ID) and click on Share -> Publish.
+---
 
-## Can I connect a custom domain to my Lovable project?
+## Goal
 
-Yes, you can!
+Make teenagers practice real-life skills daily instead of only consuming content.
 
-To connect a domain, navigate to Project > Settings > Domains and click Connect Domain.
-
-Read more here: [Setting up a custom domain](https://docs.lovable.dev/features/custom-domain#custom-domain)
+Behavior change, not just education.
