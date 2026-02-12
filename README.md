@@ -1,3 +1,7 @@
+## Live Demo
+https://lifeosforteens.vercel.app
+
+
 # LifeOS for Teens
 
 **School teaches subjects. We teach life.**
@@ -69,3 +73,4 @@ LocalStorage (mock database)
 Make teenagers practice real-life skills daily instead of only consuming content.
 
 Behavior change, not just education.
+
