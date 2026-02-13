@@ -136,7 +136,8 @@ Make teenagers practice real-life skills daily instead of only consuming content
 Behavior change, not just education.
 
 
-#User Interface
+###User Interface
+
 <img width="1648" height="753" alt="image" src="https://github.com/user-attachments/assets/ea6463b4-7f1e-4ace-bdff-518ff799e427" />
 
 <img width="1540" height="833" alt="image" src="https://github.com/user-attachments/assets/dd83bc4e-10c7-46e2-aeb5-ee07b6f9211c" />
@@ -148,6 +149,7 @@ Behavior change, not just education.
 <img width="1896" height="810" alt="image" src="https://github.com/user-attachments/assets/f14ece1e-a0a3-4300-acce-e80c2d5efa38" />
 
 <img width="1897" height="736" alt="image" src="https://github.com/user-attachments/assets/07a21d1f-baf4-4ef7-904b-978bc743810b" />
+
 
 
 
